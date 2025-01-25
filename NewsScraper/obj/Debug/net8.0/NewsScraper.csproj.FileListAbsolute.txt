@@ -1,0 +1,17 @@
+C:\Users\chrov\source\repos\NewsScraper\bin\Debug\net8.0\NewsScraper.exe
+C:\Users\chrov\source\repos\NewsScraper\bin\Debug\net8.0\NewsScraper.deps.json
+C:\Users\chrov\source\repos\NewsScraper\bin\Debug\net8.0\NewsScraper.runtimeconfig.json
+C:\Users\chrov\source\repos\NewsScraper\bin\Debug\net8.0\NewsScraper.dll
+C:\Users\chrov\source\repos\NewsScraper\bin\Debug\net8.0\NewsScraper.pdb
+C:\Users\chrov\source\repos\NewsScraper\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\chrov\source\repos\NewsScraper\obj\Debug\net8.0\NewsScraper.csproj.AssemblyReference.cache
+C:\Users\chrov\source\repos\NewsScraper\obj\Debug\net8.0\NewsScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chrov\source\repos\NewsScraper\obj\Debug\net8.0\NewsScraper.AssemblyInfoInputs.cache
+C:\Users\chrov\source\repos\NewsScraper\obj\Debug\net8.0\NewsScraper.AssemblyInfo.cs
+C:\Users\chrov\source\repos\NewsScraper\obj\Debug\net8.0\NewsScraper.csproj.CoreCompileInputs.cache
+C:\Users\chrov\source\repos\NewsScraper\obj\Debug\net8.0\NewsScra.CCEAC7E4.Up2Date
+C:\Users\chrov\source\repos\NewsScraper\obj\Debug\net8.0\NewsScraper.dll
+C:\Users\chrov\source\repos\NewsScraper\obj\Debug\net8.0\refint\NewsScraper.dll
+C:\Users\chrov\source\repos\NewsScraper\obj\Debug\net8.0\NewsScraper.pdb
+C:\Users\chrov\source\repos\NewsScraper\obj\Debug\net8.0\NewsScraper.genruntimeconfig.cache
+C:\Users\chrov\source\repos\NewsScraper\obj\Debug\net8.0\ref\NewsScraper.dll
