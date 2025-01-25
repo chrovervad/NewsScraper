@@ -23,7 +23,7 @@ class Program
                 .Where(text => !string.IsNullOrWhiteSpace(text))
                 .ToList();
 
-            if (headlines != null && headlines.Any())
+            if (headlines?.Count > 0)
             {
                 Console.WriteLine("TV2 Headlines:");
                 foreach (var headline in headlines)
