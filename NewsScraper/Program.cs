@@ -28,7 +28,7 @@ class Program
                 Console.WriteLine("TV2 Headlines:");
                 foreach (var headline in headlines)
                 {
-                    Console.WriteLine($"- {headline}");
+                    Console.WriteLine($"• {headline}");
                 }
             }
             else

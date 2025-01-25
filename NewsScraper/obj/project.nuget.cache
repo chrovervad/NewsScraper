@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ujfxWg5ijK4=",
+  "dgSpecHash": "3cJmguP18YQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\chrov\\source\\repos\\NewsScraper\\NewsScraper.csproj",
+  "projectFilePath": "C:\\Users\\chrov\\Source\\Repos\\NewsScraper\\NewsScraper\\NewsScraper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chrov\\.nuget\\packages\\htmlagilitypack\\1.11.72\\htmlagilitypack.1.11.72.nupkg.sha512"
   ],

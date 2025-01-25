@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chrov\\source\\repos\\NewsScraper\\NewsScraper.csproj",
+      "projectUniqueName": "C:\\Users\\chrov\\Source\\Repos\\NewsScraper\\NewsScraper\\NewsScraper.csproj",
       "projectName": "NewsScraper",
-      "projectPath": "C:\\Users\\chrov\\source\\repos\\NewsScraper\\NewsScraper.csproj",
+      "projectPath": "C:\\Users\\chrov\\Source\\Repos\\NewsScraper\\NewsScraper\\NewsScraper.csproj",
       "packagesPath": "C:\\Users\\chrov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chrov\\source\\repos\\NewsScraper\\obj\\",
+      "outputPath": "C:\\Users\\chrov\\Source\\Repos\\NewsScraper\\NewsScraper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
